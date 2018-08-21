@@ -21,7 +21,7 @@ author:
   name: Joseph Michael Lamothe
   email: joelamothe@gmail.com
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/54f3224e-a383-4deb-92b3-ae74321481d7.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/61866974-6bfc-4efd-b2fe-443be6cb3e4f.jpg
 name: Elephant Orange Design
 navigation:
   - name: T-Shirt Designs
@@ -63,3 +63,5 @@ purpose:
   - type: internal
     label: PAST WORK
     item: c296d5eb-4bc1-44bf-af3f-37a091def180
+content_rating:
+  adult: false
