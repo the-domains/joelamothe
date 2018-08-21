@@ -1,16 +1,16 @@
-typography_spectrum: 0.025122082559391856
+layout_spectrum: 0.5635858759426023
+typography_spectrum: 0.02256392875188353
 color:
-  brandStrength: 0.9641039243433625
-  lightness: 0.6590323043055832
-  saturation: 0.5238377435598522
-  rhythmicContrast: 0.9124518267344683
+  brandStrength: 0.3502378255110418
+  lightness: 0.4942044206794425
+  saturation: 0.5633684921483187
+  rhythmicContrast: 0.22931457840920527
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.4478672912809998
+    - '#332532'
+    - '#644D52'
+    - '#F77A52'
+    - '#FF974F'
+    - '#A49A87'
 name: Elephant Orange Design
 title: ''
 content: []
