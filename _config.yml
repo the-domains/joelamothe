@@ -1,0 +1,37 @@
+typography_spectrum: 0.025122082559391856
+color:
+  brandStrength: 0.9641039243433625
+  lightness: 0.6590323043055832
+  saturation: 0.5238377435598522
+  rhythmicContrast: 0.9124518267344683
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.4478672912809998
+name: Elephant Orange Design
+title: ELEPHANT ORANGE
+content: []
+description: Graphic Design - Illustration - Music
+purpose:
+  - type: contact
+    url: 'mailto:joelamothe@gmail.com'
+    label: CONTACT ME
+  - type: internal
+    label: PAST WORK
+    item: c296d5eb-4bc1-44bf-af3f-37a091def180
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e209ca7-72ed-4840-9e0b-b8f1045f8cb6.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/54f3224e-a383-4deb-92b3-ae74321481d7.jpg
+author:
+  name: Joseph Michael Lamothe
+  email: joelamothe@gmail.com
+opengraph:
+  appId: elephantorangedesign
+  type: Graphic Design
+analytics:
+  twitter: ''
