@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Elephant Orange Design]]></title>
+        <description><![CDATA[Elephant Orange Design]]></description>
+        <link>http://elephantorangedesign.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 21 Aug 2018 20:47:43 GMT</lastBuildDate>
+        <atom:link href="http://elephantorangedesign.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 21 Aug 2018 20:47:42 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f0d500f-a007-45ce-80d5-c5ce0797e090.jpg">]]></description>
+            <link>http://elephantorangedesign.com/721a23e9-5ca9-48fc-b683-4d895ef85b2c/index.html</link>
+            <guid isPermaLink="false">721a23e9-5ca9-48fc-b683-4d895ef85b2c</guid>
+            <pubDate>Thu, 10 Nov 2016 03:12:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42d8385e-1528-4bea-af99-5c3c22c5791b.jpg">]]></description>
+            <link>http://elephantorangedesign.com/c296d5eb-4bc1-44bf-af3f-37a091def180/index.html</link>
+            <guid isPermaLink="false">c296d5eb-4bc1-44bf-af3f-37a091def180</guid>
+            <pubDate>Thu, 10 Nov 2016 02:46:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
